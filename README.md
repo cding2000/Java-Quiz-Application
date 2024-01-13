@@ -1,28 +1,30 @@
-# Python-Quiz-Application
+# Python Quiz Application
 
+Hello, everyone! I'm Chuqi Ding, and I've created a simple Python quiz mobile application. The app counts the number of questions you miss, evaluates whether you pass the test, and allows you to retake the quiz. It's designed to help those who are unfamiliar with Python to improve their basic knowledge.
 
+## Software Demo Video
 
-Hey, everyone. My name is Chuqi Ding. I created this simple python quiz mobile application, which count how many question you miss, whether you pass the test or not, allow you to retake the quiz after you finish quiz. Hopefully, this application is good for people who are unfamiliar with the language and can use it to get better understand of the python basic knowledge.
+Check out the application in action by watching this [Software Demo Video](https://youtu.be/5zD2PpTTj3E).
 
+## Development Environment
 
-[Software Demo Video]
+I developed this Python quiz mobile application using Java. Java is a widely used object-oriented programming language and software platform that runs on billions of devices, including notebook computers, mobile devices, gaming consoles, medical devices, and more.
 
-https://youtu.be/5zD2PpTTj3E
+## Useful Websites
 
-# Development Environment
+Here are some useful websites that I referred to during the development:
 
-I am using Java to create this easy python quiz mobile application. Java is a widely used object-oriented programming language and software platform that runs on billions of devices, including notebook computers, mobile devices, gaming consoles, medical devices and many others.
+* [4 Ways to Implement OnClickListener on Android](https://medium.com/@CodyEngel/4-ways-to-implement-onclicklistener-on-android-9b956cbd2928)
+* [YouTube Tutorial: Creating a Quiz App in Java](https://www.youtube.com/watch?v=4Cbk2vK0FLU)
+* [YouTube Tutorial: How to Make a Quiz App in Android Studio](https://www.youtube.com/watch?v=tZvjSl9dswg)
 
-# Useful Websites
+## Future Work
 
+I plan to enhance the Python Quiz Application with the following features in the future:
 
-* https://medium.com/@CodyEngel/4-ways-to-implement-onclicklistener-on-android-9b956cbd2928
-* https://www.youtube.com/watch?v=4Cbk2vK0FLU
-* https://www.youtube.com/watch?v=tZvjSl9dswg
+* Add a feature that only allows users to retake the quiz if they fail.
+* Implement the ability to save the questions that users missed and allow them to review them later.
+* Integrate the application with a Python question database for auto-generated quizzes.
 
+Feel free to contribute or provide feedback to make this Python Quiz Application even more valuable!
 
-# Future Work
-
-* Add the feature that only allow users retake the quiz if they fail.
-* Be able to save the question that users missed and allow users to review them latter. 
-* link with a python question database so the quiz could be auto generated. 
