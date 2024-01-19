@@ -1,6 +1,6 @@
-# Python Quiz Application
+# Java Quiz Application
 
-Hello, everyone! I'm Chuqi Ding, and I've created a simple Python quiz mobile application. The app counts the number of questions you miss, evaluates whether you pass the test, and allows you to retake the quiz. It's designed to help those who are unfamiliar with Python to improve their basic knowledge.
+Hello, everyone! I'm Chuqi Ding, and I've created a simple Java quiz mobile application. The app counts the number of questions you miss, evaluates whether you pass the test, and allows you to retake the quiz. It's designed to help those who are unfamiliar with Java to improve their basic knowledge.
 
 ## Software Demo Video
 
@@ -8,7 +8,7 @@ Check out the application in action by watching this [Software Demo Video](https
 
 ## Development Environment
 
-I developed this Python quiz mobile application using Java. Java is a widely used object-oriented programming language and software platform that runs on billions of devices, including notebook computers, mobile devices, gaming consoles, medical devices, and more.
+I developed this Java quiz mobile application using Java, a widely used object-oriented programming language and software platform that runs on billions of devices, including notebook computers, mobile devices, gaming consoles, medical devices, and more.
 
 ## Useful Websites
 
@@ -20,11 +20,10 @@ Here are some useful websites that I referred to during the development:
 
 ## Future Work
 
-I plan to enhance the Python Quiz Application with the following features in the future:
+I plan to enhance the Java Quiz Application with the following features in the future:
 
 * Add a feature that only allows users to retake the quiz if they fail.
 * Implement the ability to save the questions that users missed and allow them to review them later.
-* Integrate the application with a Python question database for auto-generated quizzes.
+* Integrate the application with a Java question database for auto-generated quizzes.
 
-Feel free to contribute or provide feedback to make this Python Quiz Application even more valuable!
-
+Feel free to contribute or provide feedback to make this Java Quiz Application even more valuable!
